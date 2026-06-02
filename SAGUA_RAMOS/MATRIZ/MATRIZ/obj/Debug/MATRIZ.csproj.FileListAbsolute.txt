@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.Form1.resources
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.Properties.Resources.resources
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\bin\Debug\MATRIZ.exe.config
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\bin\Debug\MATRIZ.exe
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\bin\Debug\MATRIZ.pdb
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.exe
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\MATRIZ.pdb
+C:\Users\HP\source\repos\MATRIZ\MATRIZ\obj\Debug\Figuras.Form2.resources

@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MATRIZ
+{
+    internal class Matriz
+    {
+        // Atributos
+        private int filas;
+        private int columnas;
+        private int[,] datos;
+
+        // Constructor
+        public Matriz(int filas, int columnas)
+        {
+            this.filas = filas;
+            this.columnas = columnas;
+            datos = new int[filas, columnas];
+        }
+
+        // Método para ingresar valores
+        public void IngresarValores()
+        {
+            Console.WriteLine("Ingrese los valores de la matriz:");
+
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write($"Elemento [{i},{j}]: ");
+                    datos[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+        }
+
+        // Método para mostrar valores
+        public void MostrarMatriz()
+        {
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(datos[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        // Método para multiplicar matrices
+        public Matriz Multiplicar(Matriz otra)
+        {
+            // Verificar si se pueden multiplicar
+            if (this.columnas != otra.filas)
+            {
+                Console.WriteLine("No se pueden multiplicar las matrices.");
+                return null;
+            }
+
+            Matriz resultado = new Matriz(this.filas, otra.columnas);
+
+            for (int i = 0; i < this.filas; i++)
+            {
+                for (int j = 0; j < otra.columnas; j++)
+                {
+                    for (int k = 0; k < this.columnas; k++)
+                    {
+                        resultado.datos[i, j] += this.datos[i, k] * otra.datos[k, j];
+                    }
+                }
+            }
+
+            return resultado;
+        }
+    }
+}

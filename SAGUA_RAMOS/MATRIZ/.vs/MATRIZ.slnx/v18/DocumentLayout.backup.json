@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MATRIZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|C:\\Users\\HP\\source\\repos\\MATRIZ\\matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|C:\\Users\\HP\\source\\repos\\MATRIZ\\matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|c:\\users\\hp\\source\\repos\\matriz\\matriz\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:matriz\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:MATRIZ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|c:\\users\\hp\\source\\repos\\matriz\\matriz\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:matriz\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|c:\\users\\hp\\source\\repos\\matriz\\matriz\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:matriz\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:MATRIZ\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9835C-1573-42A0-B112-E9ECAECEA2A8}|MATRIZ\\MATRIZ.csproj|solutionrelative:MATRIZ\\Matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figuras.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Figuras.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Figuras.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Figuras.cs",
+              "RelativeToolTip": "MATRIZ\\Figuras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:43:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form2.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form2.cs",
+              "RelativeToolTip": "MATRIZ\\Form2.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form2.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MATRIZ\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.834Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.Designer.cs",
+              "RelativeToolTip": "MATRIZ\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Program.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Program.cs",
+              "RelativeToolTip": "MATRIZ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.cs",
+              "RelativeToolTip": "MATRIZ\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matriz.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Matriz.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Matriz.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Matriz.cs",
+              "RelativeToolTip": "MATRIZ\\Matriz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.cs",
+              "RelativeDocumentMoniker": "MATRIZ\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MATRIZ\\MATRIZ\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MATRIZ\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:42:00.84Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

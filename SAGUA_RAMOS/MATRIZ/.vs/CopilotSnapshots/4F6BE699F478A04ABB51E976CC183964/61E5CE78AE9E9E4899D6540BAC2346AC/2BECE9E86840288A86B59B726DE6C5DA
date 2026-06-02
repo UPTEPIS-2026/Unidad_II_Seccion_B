@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace MATRIZ
+{
+    public partial class Form1 : Form
+    {
+        Matriz matrizA;
+        Matriz matrizB;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCrearMatriz_Click(object sender, EventArgs e)
+        {
+            int filas = int.Parse(txtFilas.Text);
+            int columnas = int.Parse(txtColumnas.Text);
+
+            //aqui creamos las matrices
+            dgvMatrizA.ColumnCount = columnas;
+            dgvMatrizA.RowCount = filas;
+
+            dgvMatrizB.ColumnCount = columnas;
+            dgvMatrizB.RowCount = filas;
+
+            dgvResultado.Columns.Clear();
+            dgvResultado.Rows.Clear();
+
+            // Instanciar los objetos Matriz para evitar el warning CS0169
+            matrizA = new Matriz();
+            matrizB = new Matriz();
+
+            MessageBox.Show("Matrices creadas correctamente");
+
+        }
+    }
+}
