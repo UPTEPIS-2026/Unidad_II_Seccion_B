@@ -1,0 +1,17 @@
+C:\SAGUA\po2\tarea\bin\Debug\net6.0-windows\tarea.exe
+C:\SAGUA\po2\tarea\bin\Debug\net6.0-windows\tarea.deps.json
+C:\SAGUA\po2\tarea\bin\Debug\net6.0-windows\tarea.runtimeconfig.json
+C:\SAGUA\po2\tarea\bin\Debug\net6.0-windows\tarea.dll
+C:\SAGUA\po2\tarea\bin\Debug\net6.0-windows\tarea.pdb
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.Form1.resources
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.csproj.GenerateResource.cache
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.AssemblyInfoInputs.cache
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.AssemblyInfo.cs
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.csproj.CoreCompileInputs.cache
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.dll
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\refint\tarea.dll
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.pdb
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.genruntimeconfig.cache
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\ref\tarea.dll
+C:\SAGUA\po2\tarea\obj\Debug\net6.0-windows\tarea.csproj.AssemblyReference.cache

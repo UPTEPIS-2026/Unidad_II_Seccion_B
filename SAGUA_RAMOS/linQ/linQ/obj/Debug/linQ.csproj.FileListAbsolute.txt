@@ -1,0 +1,11 @@
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.csproj.AssemblyReference.cache
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.Form1.resources
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.Properties.Resources.resources
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.csproj.GenerateResource.cache
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.csproj.CoreCompileInputs.cache
+D:\2026\po2 Luque\linQ\linQ\bin\Debug\linQ.exe.config
+D:\2026\po2 Luque\linQ\linQ\bin\Debug\linQ.exe
+D:\2026\po2 Luque\linQ\linQ\bin\Debug\linQ.pdb
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.exe
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.pdb
+D:\2026\po2 Luque\linQ\linQ\obj\Debug\linQ.FrmFichaProducto.resources

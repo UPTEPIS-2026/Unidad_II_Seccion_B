@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\bin\Debug\Lab1_U2.exe.config
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\bin\Debug\Lab1_U2.exe
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\bin\Debug\Lab1_U2.pdb
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.Form1.resources
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.Properties.Resources.resources
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.exe
+C:\Users\HP\source\repos\Lab1_U2\Lab1_U2\obj\Debug\Lab1_U2.pdb

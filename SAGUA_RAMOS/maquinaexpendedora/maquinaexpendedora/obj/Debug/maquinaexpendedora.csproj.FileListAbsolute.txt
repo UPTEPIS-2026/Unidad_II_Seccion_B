@@ -1,0 +1,10 @@
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\bin\Debug\maquinaexpendedora.exe.config
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\bin\Debug\maquinaexpendedora.exe
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\bin\Debug\maquinaexpendedora.pdb
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.csproj.AssemblyReference.cache
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.Form1.resources
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.Properties.Resources.resources
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.csproj.GenerateResource.cache
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.csproj.CoreCompileInputs.cache
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.exe
+D:\2026\unidad2\maquinaexpendedora\maquinaexpendedora\obj\Debug\maquinaexpendedora.pdb

@@ -1,0 +1,10 @@
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.csproj.AssemblyReference.cache
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.Form1.resources
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.Properties.Resources.resources
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.csproj.GenerateResource.cache
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.csproj.CoreCompileInputs.cache
+D:\2026\unidad2\futbol\futbol\bin\Debug\futbol.exe.config
+D:\2026\unidad2\futbol\futbol\bin\Debug\futbol.exe
+D:\2026\unidad2\futbol\futbol\bin\Debug\futbol.pdb
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.exe
+D:\2026\unidad2\futbol\futbol\obj\Debug\futbol.pdb

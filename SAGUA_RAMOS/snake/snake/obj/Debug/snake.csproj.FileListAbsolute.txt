@@ -1,0 +1,10 @@
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+D:\2026\unidad2\SNAKE\snake\snake\bin\Debug\snake.exe.config
+D:\2026\unidad2\SNAKE\snake\snake\bin\Debug\snake.exe
+D:\2026\unidad2\SNAKE\snake\snake\bin\Debug\snake.pdb
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.Form1.resources
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.Properties.Resources.resources
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.csproj.GenerateResource.cache
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.exe
+D:\2026\unidad2\SNAKE\snake\snake\obj\Debug\snake.pdb

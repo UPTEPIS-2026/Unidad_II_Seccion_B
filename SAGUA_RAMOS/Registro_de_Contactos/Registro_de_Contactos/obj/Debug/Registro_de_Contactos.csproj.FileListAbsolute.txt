@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.Form1.resources
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.Properties.Resources.resources
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\bin\Debug\Registro_de_Contactos.exe.config
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\bin\Debug\Registro_de_Contactos.exe
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\bin\Debug\Registro_de_Contactos.pdb
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.exe
+C:\Users\HP\source\repos\Registro_de_Contactos\Registro_de_Contactos\obj\Debug\Registro_de_Contactos.pdb
