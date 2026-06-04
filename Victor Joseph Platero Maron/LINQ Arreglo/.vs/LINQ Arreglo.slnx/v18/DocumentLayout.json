@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\linq arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|solutionrelative:linq arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|c:\\users\\bezaliel\\source\\repos\\linq arreglo\\linq arreglo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|solutionrelative:linq arreglo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\linq arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859BB580-AEEA-414B-BC3B-6768600E3D87}|LINQ Arreglo\\LINQ Arreglo.csproj|solutionrelative:linq arreglo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.cs",
+              "RelativeDocumentMoniker": "LINQ Arreglo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.cs",
+              "RelativeToolTip": "LINQ Arreglo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T04:43:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LINQ Arreglo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.Designer.cs",
+              "RelativeToolTip": "LINQ Arreglo\\Form1.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswF4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T04:39:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.cs",
+              "RelativeDocumentMoniker": "LINQ Arreglo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bezaliel\\source\\repos\\LINQ Arreglo\\LINQ Arreglo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LINQ Arreglo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T04:39:02.908Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
